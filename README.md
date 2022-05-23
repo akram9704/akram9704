@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akram9704
+- 👋 Hi, I’m Akram Khan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Python with Django
 <!--- - 💞️ I’m looking to collaborate on ... --->
