@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akram9704
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Python with Django
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Reach me @ facebook.com/akraam.khaaan
 
 <!---
