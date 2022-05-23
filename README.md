@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akram9704
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript & Python
+- 🌱 I’m currently learning Python with Django
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me @ facebook.com/akraam.khaaan
 
 <!---
 akram9704/akram9704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
